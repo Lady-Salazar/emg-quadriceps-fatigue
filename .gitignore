@@ -1,0 +1,14 @@
+# Datos crudos (NO se suben, ver informe)
+EMG_RAW/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.vscode/
