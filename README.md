@@ -50,8 +50,4 @@ of every model and scenario, as required by the submission checklist.
     - EMG_RAW      — path to the folder with the raw CSVs. Defaults to ./EMG_RAW.
     - MPLBACKEND   — set to Agg for headless execution (no figure window).
 
-## Reference
 
-Report: EMG-Based Detection and Classification of Quadriceps Muscular Fatigue,
-Universidad Yachay Tech, School of Biological Sciences and Engineering,
-Biomechanics of Gait, Second Semester 2026.
