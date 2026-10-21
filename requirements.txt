@@ -1,4 +1,6 @@
-numpy==2.4.4
-pandas==3.0.2
-scipy==1.17.1
-scikit-learn==1.8.0
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+autograd>=1.6   # CNN backend when PyTorch is not installed
